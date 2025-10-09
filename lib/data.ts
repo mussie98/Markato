@@ -1065,23 +1065,23 @@ const data: Data = {
   reviews,
   webPages: [
     {
-      title: 'About Us',
-      slug: 'about-us',
+      title: "About Us",
+      slug: "about-us",
       content: `Welcome to , your trusted destination for quality products and exceptional service. Our journey began with a mission to bring you the best shopping experience by offering a wide range of products at competitive prices, all in one convenient platform.
 
-At Gulit Gebeya, we prioritize customer satisfaction and innovation. Our team works tirelessly to curate a diverse selection of items, from everyday essentials to exclusive deals, ensuring there's something for everyone. We also strive to make your shopping experience seamless with fast shipping, secure payments, and excellent customer support.
+At Markato, we prioritize customer satisfaction and innovation. Our team works tirelessly to curate a diverse selection of items, from everyday essentials to exclusive deals, ensuring there's something for everyone. We also strive to make your shopping experience seamless with fast shipping, secure payments, and excellent customer support.
 
-As we continue to grow, our commitment to quality and service remains unwavering. Thank you for choosing Gulit Gebeya—we look forward to being a part of your journey and delivering value every step of the way.`,
+As we continue to grow, our commitment to quality and service remains unwavering. Thank you for choosing Markato—we look forward to being a part of your journey and delivering value every step of the way.`,
       isPublished: true,
     },
     {
-      title: 'Contact Us',
-      slug: 'contact-us',
+      title: "Contact Us",
+      slug: "contact-us",
       content: `We’re here to help! If you have any questions, concerns, or feedback, please don’t hesitate to reach out to us. Our team is ready to assist you and ensure you have the best shopping experience.
 
 **Customer Support**
 For inquiries about orders, products, or account-related issues, contact our customer support team:
-- **Email:** gulitsupport@example.com
+- **Email:** markatosupport@example.com
 - **Phone:** +251928449810
 - **Live Chat:** Available on our website from 9 AM to 6 PM (Monday to Friday).
 
@@ -1095,8 +1095,8 @@ We look forward to assisting you! Your satisfaction is our priority.
       isPublished: true,
     },
     {
-      title: 'Help',
-      slug: 'help',
+      title: "Help",
+      slug: "help",
       content: `Welcome to our Help Center! We're here to assist you with any questions or concerns you may have while shopping with us. Whether you need help with orders, account management, or product inquiries, this page provides all the information you need to navigate our platform with ease.
 
 **Placing and Managing Orders**
@@ -1110,8 +1110,8 @@ Managing your account is easy. Log in to update your personal information, payme
       isPublished: true,
     },
     {
-      title: 'Privacy Policy',
-      slug: 'privacy-policy',
+      title: "Privacy Policy",
+      slug: "privacy-policy",
       content: `We value your privacy and are committed to protecting your personal information. This Privacy Notice explains how we collect, use, and share your data when you interact with our services. By using our platform, you consent to the practices described herein.
 
 We collect data such as your name, email address, and payment details to provide you with tailored services and improve your experience. This information may also be used for marketing purposes, but only with your consent. Additionally, we may share your data with trusted third-party providers to facilitate transactions or deliver products.
@@ -1120,21 +1120,21 @@ Your data is safeguarded through robust security measures to prevent unauthorize
       isPublished: true,
     },
     {
-      title: 'Conditions of Use',
-      slug: 'conditions-of-use',
-      content: `Welcome to Gulit Gebeya. By accessing or using our website, you agree to comply with and be bound by the following terms and conditions. These terms govern your use of our platform, including browsing, purchasing products, and interacting with any content or services provided. You must be at least 18 years old or have the consent of a parent or guardian to use this website. Any breach of these terms may result in the termination of your access to our platform.
+      title: "Conditions of Use",
+      slug: "conditions-of-use",
+      content: `Welcome to Markato. By accessing or using our website, you agree to comply with and be bound by the following terms and conditions. These terms govern your use of our platform, including browsing, purchasing products, and interacting with any content or services provided. You must be at least 18 years old or have the consent of a parent or guardian to use this website. Any breach of these terms may result in the termination of your access to our platform.
 
 We strive to ensure all product descriptions, pricing, and availability information on our website are accurate. However, errors may occur, and we reserve the right to correct them without prior notice. All purchases are subject to our return and refund policy. By using our site, you acknowledge that your personal information will be processed according to our privacy policy, ensuring your data is handled securely and responsibly. Please review these terms carefully before proceeding with any transactions.
 `,
       isPublished: true,
     },
     {
-      title: 'Customer Service',
-      slug: 'customer-service',
-      content: `At Gulit Gebeya, our customer service team is here to ensure you have the best shopping experience. Whether you need assistance with orders, product details, or returns, we are committed to providing prompt and helpful support.
+      title: "Customer Service",
+      slug: "customer-service",
+      content: `At Markato, our customer service team is here to ensure you have the best shopping experience. Whether you need assistance with orders, product details, or returns, we are committed to providing prompt and helpful support.
 
 If you have questions or concerns, please reach out to us through our multiple contact options:
-- **Email:** gulitsupport@example.com
+- **Email:** markatosupport@example.com
 - **Phone:** +251928449810
 - **Live Chat:** Available on our website for instant assistance
 
@@ -1142,102 +1142,102 @@ We also provide helpful resources such as order tracking, product guides, and FA
       isPublished: true,
     },
     {
-      title: 'Returns Policy',
-      slug: 'returns-policy',
-      content: 'Returns Policy Content',
+      title: "Returns Policy",
+      slug: "returns-policy",
+      content: "Returns Policy Content",
       isPublished: true,
     },
     {
-      title: 'Careers',
-      slug: 'careers',
-      content: 'careers Content',
+      title: "Careers",
+      slug: "careers",
+      content: "careers Content",
       isPublished: true,
     },
     {
-      title: 'Blog',
-      slug: 'blog',
-      content: 'Blog Content',
+      title: "Blog",
+      slug: "blog",
+      content: "Blog Content",
       isPublished: true,
     },
     {
-      title: 'Sell Products',
-      slug: 'sell',
+      title: "Sell Products",
+      slug: "sell",
       content: `Sell Products Content`,
       isPublished: true,
     },
     {
-      title: 'Become Affiliate',
-      slug: 'become-affiliate',
-      content: 'Become Affiliate Content',
+      title: "Become Affiliate",
+      slug: "become-affiliate",
+      content: "Become Affiliate Content",
       isPublished: true,
     },
     {
-      title: 'Advertise Your Products',
-      slug: 'advertise',
-      content: 'Advertise Your Products',
+      title: "Advertise Your Products",
+      slug: "advertise",
+      content: "Advertise Your Products",
       isPublished: true,
     },
     {
-      title: 'Shipping Rates & Policies',
-      slug: 'shipping',
-      content: 'Shipping Rates & Policies',
+      title: "Shipping Rates & Policies",
+      slug: "shipping",
+      content: "Shipping Rates & Policies",
       isPublished: true,
     },
   ],
   headerMenus: [
     {
       name: "Today's Deal",
-      href: '/search?tag=todays-deal',
+      href: "/search?tag=todays-deal",
     },
     {
-      name: 'New Arrivals',
-      href: '/search?tag=new-arrival',
+      name: "New Arrivals",
+      href: "/search?tag=new-arrival",
     },
     {
-      name: 'Featured Products',
-      href: '/search?tag=featured',
+      name: "Featured Products",
+      href: "/search?tag=featured",
     },
     {
-      name: 'Best Sellers',
-      href: '/search?tag=best-seller',
+      name: "Best Sellers",
+      href: "/search?tag=best-seller",
     },
     {
-      name: 'Browsing History',
-      href: '/#browsing-history',
+      name: "Browsing History",
+      href: "/#browsing-history",
     },
     {
-      name: 'Customer Service',
-      href: '/page/customer-service',
+      name: "Customer Service",
+      href: "/page/customer-service",
     },
     {
-      name: 'About Us',
-      href: '/page/about-us',
+      name: "About Us",
+      href: "/page/about-us",
     },
     {
-      name: 'Help',
-      href: '/page/help',
+      name: "Help",
+      href: "/page/help",
     },
   ],
   carousels: [
     {
-      title: 'Most Popular Shoes For Sale',
-      buttonCaption: 'Shop Now',
-      image: '/images/banner3.jpg',
-      url: '/search?category=Shoes',
+      title: "Most Popular Shoes For Sale",
+      buttonCaption: "Shop Now",
+      image: "/images/banner3.jpg",
+      url: "/search?category=Shoes",
       isPublished: true,
     },
     {
-      title: 'Best Sellers in T-Shirts',
-      buttonCaption: 'Shop Now',
-      image: '/images/banner1.jpg',
-      url: '/search?category=T-Shirts',
+      title: "Best Sellers in T-Shirts",
+      buttonCaption: "Shop Now",
+      image: "/images/banner1.jpg",
+      url: "/search?category=T-Shirts",
       isPublished: true,
     },
     {
-      title: 'Best Deals on Wrist Watches',
-      buttonCaption: 'See More',
-      image: '/images/banner2.jpg',
-      url: '/search?category=Wrist Watches',
+      title: "Best Deals on Wrist Watches",
+      buttonCaption: "See More",
+      image: "/images/banner2.jpg",
+      url: "/search?category=Wrist Watches",
       isPublished: true,
     },
   ],
@@ -1246,89 +1246,89 @@ We also provide helpful resources such as order tracking, product guides, and FA
       common: {
         freeShippingMinPrice: 35,
         isMaintenanceMode: false,
-        defaultTheme: 'Light',
-        defaultColor: 'Gold',
+        defaultTheme: "Light",
+        defaultColor: "Gold",
         pageSize: 9,
       },
       site: {
-        name: 'Gulit Gebeya',
+        name: "Markato",
         description:
-          'Gulit Gebeya is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.',
-        keywords: 'Next Ecommerce, Next.js, Tailwind CSS, MongoDB',
-        url: 'https://gulit-gebeya-eta.vercel.app',
-        logo: '/icons/logo.png',
-        slogan: 'Spend less, enjoy more.',
-        author: 'Thomas',
-        copyright: '2000-2025, Gulit-Gebeya.com, Inc. or its affiliates',
-        email: 'gulitgebeya@gmail.com',
-        address: '123, Bole Road, Addis Ababa, Zip 12345',
-        phone: '+251928449810',
+          "Markato is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.",
+        keywords: "Next E-commerce, Next.js, Tailwind CSS, MongoDB",
+        url: "https://markato-indol.vercel.app/",
+        logo: "/icons/logo.png",
+        slogan: "Spend less, enjoy more.",
+        author: "Thomas",
+        copyright: "2000-2025, Markato.com, Inc. or its affiliates",
+        email: "gulitgebeya@gmail.com",
+        address: "123, Bole Road, Addis Ababa, Zip 12345",
+        phone: "+251928449810",
       },
       carousels: [
         {
-          title: 'Most Popular Shoes For Sale',
-          buttonCaption: 'Shop Now',
-          image: '/images/banner3.jpg',
-          url: '/search?category=Shoes',
+          title: "Most Popular Shoes For Sale",
+          buttonCaption: "Shop Now",
+          image: "/images/banner3.jpg",
+          url: "/search?category=Shoes",
         },
         {
-          title: 'Best Sellers in T-Shirts',
-          buttonCaption: 'Shop Now',
-          image: '/images/banner1.jpg',
-          url: '/search?category=T-Shirts',
+          title: "Best Sellers in T-Shirts",
+          buttonCaption: "Shop Now",
+          image: "/images/banner1.jpg",
+          url: "/search?category=T-Shirts",
         },
         {
-          title: 'Best Deals on Wrist Watches',
-          buttonCaption: 'See More',
-          image: '/images/banner2.jpg',
-          url: '/search?category=Wrist Watches',
+          title: "Best Deals on Wrist Watches",
+          buttonCaption: "See More",
+          image: "/images/banner2.jpg",
+          url: "/search?category=Wrist Watches",
         },
       ],
       availableLanguages: i18n.locales.map((locale) => ({
         code: locale.code,
         name: locale.name,
       })),
-      defaultLanguage: 'en-US',
+      defaultLanguage: "en-US",
       availableCurrencies: [
         {
-          name: 'United States Dollar',
-          code: 'USD',
-          symbol: '$',
+          name: "United States Dollar",
+          code: "USD",
+          symbol: "$",
           convertRate: 1,
         },
-        { name: 'Euro', code: 'EUR', symbol: '€', convertRate: 0.96 },
-        { name: 'UAE Dirham', code: 'AED', symbol: 'AED', convertRate: 3.67 },
+        { name: "Euro", code: "EUR", symbol: "€", convertRate: 0.96 },
+        { name: "UAE Dirham", code: "AED", symbol: "AED", convertRate: 3.67 },
       ],
-      defaultCurrency: 'USD',
+      defaultCurrency: "USD",
       availablePaymentMethods: [
-        { name: 'PayPal', commission: 0 },
-        { name: 'Stripe', commission: 0 },
-        { name: 'Cash On Delivery', commission: 0 },
+        { name: "PayPal", commission: 0 },
+        { name: "Stripe", commission: 0 },
+        { name: "Cash On Delivery", commission: 0 },
       ],
-      defaultPaymentMethod: 'PayPal',
+      defaultPaymentMethod: "PayPal",
       availableDeliveryDates: [
         {
-          name: 'Tomorrow',
+          name: "Tomorrow",
           daysToDeliver: 1,
           shippingPrice: 12.9,
           freeShippingMinPrice: 0,
         },
         {
-          name: 'Next 3 Days',
+          name: "Next 3 Days",
           daysToDeliver: 3,
           shippingPrice: 6.9,
           freeShippingMinPrice: 0,
         },
         {
-          name: 'Next 5 Days',
+          name: "Next 5 Days",
           daysToDeliver: 5,
           shippingPrice: 4.9,
           freeShippingMinPrice: 35,
         },
       ],
-      defaultDeliveryDate: 'Next 5 Days',
+      defaultDeliveryDate: "Next 5 Days",
     },
   ],
-}
+};
 
 export default data
