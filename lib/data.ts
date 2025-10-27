@@ -1261,8 +1261,8 @@ We also provide helpful resources such as order tracking, product guides, and FA
         author: "Thomas",
         copyright: "2000-2025, Markato.com, Inc. or its affiliates",
         email: "gulitgebeya@gmail.com",
-        address: "123, Bole Road, Addis Ababa, Zip 12345",
-        phone: "+251928449810",
+        address: "123,Duke st , Alexandria, Zip 12345",
+        phone: "+17036398066",
       },
       carousels: [
         {
